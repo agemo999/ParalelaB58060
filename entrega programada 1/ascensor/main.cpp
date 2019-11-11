@@ -854,7 +854,7 @@ int main()
         personastotals[i].join();
 
     }
-    _exit(0);
+    _exit(0);//termina el programa
 
     return 0;
 }
